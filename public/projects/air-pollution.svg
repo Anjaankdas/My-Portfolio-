@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#0E1A30"/><defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1C2C48" stroke-width="1"/></pattern></defs><rect width="1200" height="675" fill="url(#g)"/>
+<path d="M80 560 H360 L420 500 H760 L820 440 H1120" fill="none" stroke="#22D3EE" stroke-width="3" opacity=".6"/><circle cx="420" cy="500" r="8" fill="#22D3EE"/><circle cx="820" cy="440" r="8" fill="#F59E0B"/>
+<text x="600" y="300" text-anchor="middle" font-family="monospace" font-size="80" fill="#22D3EE">◎</text>
+<text x="600" y="370" text-anchor="middle" font-family="monospace" font-size="30" fill="#E2E8F0">AIR QUALITY SENSOR NODE</text>
+<text x="600" y="410" text-anchor="middle" font-family="monospace" font-size="20" fill="#94A3B8">[ replace with real photo ]</text></svg>
